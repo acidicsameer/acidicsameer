@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi i am passionate MERN STACK learner
+<br>Hi, I'm a passionate MERN stack learner from Nepal.
 
 
 ## 🌐 Socials:
