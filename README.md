@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm a passionate MERN stack learner from Nepal.
+<br>I'm a second-semester Computer Engineering student at Tribhuvan University, deeply passionate about MERN STACK development.
 
 
 ## 🌐 Socials:
